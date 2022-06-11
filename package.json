@@ -1,0 +1,24 @@
+{
+  "name": "ts_lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderDmitriev/TS_Lessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderDmitriev/TS_Lessons/issues"
+  },
+  "homepage": "https://github.com/AlexanderDmitriev/TS_Lessons#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

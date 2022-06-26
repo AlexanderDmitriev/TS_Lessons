@@ -12,7 +12,7 @@ name1 = "Max";
 toggle = true;
 empty = null;
 notInitialize = undefined;
-callback = (a) => {
+callback = (a:any) => {
   return 100 + a;
 };
 
